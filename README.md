@@ -1,7 +1,7 @@
 # JSBook is a coding environment CLI
 
 Installing JSBook on your machine will allow you to create local notebooks where
-you write both documentation as well as JS and JSX code that's run and previewed
+you write markdown documentation, JS and React (JSX) code that's run and previewed
 in the browser.
 
 This environment allows you to import modules from npm and these will be
